@@ -1,5 +1,5 @@
 # 💫 A propos de moi:
-🔭 Je suis actuellement concentré sur l'automatisation d'un compte TikTok de blagues ainsi que sur le développement d'un logiciel de statistiques pour TikTok.<br>👯 Je suis ouvert aux collaborations sur des projets liés à l'automatisation, au développement web ou à l'analyse de données sur les réseaux sociaux.<br>🌱 J'explore actuellement le monde du C# et du développement web pour élargir mes compétences.<br>💬 Besoin d'aide sur un projet ? Je suis là pour ça !<br>✨ Petit détail amusant : Le seul jeu auquel je joue est Terraria.
+🔭 Je suis actuellement concentré sur l'automatisation d'un compte TikTok de blagues ainsi que sur le développement d'un logiciel de statistiques pour TikTok.<br>👯 Je suis ouvert aux collaborations sur des projets liés à l'automatisation, au développement web ou à l'analyse de données sur les réseaux sociaux.<br>🌱 J'explore actuellement le monde du C# et du développement web pour élargir mes compétences.<br>💬 Besoin d'aide sur un projet ? Je suis là pour ça !<br>✨ Petit détail amusant : 
 
 
 ## 🌐 Réseaux:
